@@ -8,3 +8,5 @@ Assignment for SENG365 at Univeristy of Canterbury.
 2. Create a file called `.env`, as below
 3. Run `npm run start` or `npm run debug` to start the server.
 4. The server will be accessible on `localhost:4941`.
+
+This will also require a database to be set up. A file with default data is included in the repo.
