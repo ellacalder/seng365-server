@@ -1,0 +1,115 @@
+2023-03-20 10:02:47:247 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2023-03-20 10:04:20:420 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2023-03-20 10:42:47:4247 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2023-03-20 12:01:48:148 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'NULL NULL NULL NULL )' at line 1[39m
+2023-03-20 12:03:33:333 [31merror[39m: [31mColumn 'email' cannot be null[39m
+2023-03-20 12:06:54:654 [31merror[39m: [31mColumn 'email' cannot be null[39m
+2023-03-20 12:07:54:754 [31merror[39m: [31mColumn 'email' cannot be null[39m
+2023-03-20 12:09:53:953 [31merror[39m: [31mColumn 'email' cannot be null[39m
+2023-03-20 13:06:35:635 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-20 13:06:46:646 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-20 13:10:01:101 [31merror[39m: [31mDuplicate entry 'eca66@uclive.ac.nz' for key 'unique_key'[39m
+2023-03-20 13:10:47:1047 [31merror[39m: [31mDuplicate entry 'eca666@uclive.ac.nz' for key 'unique_key'[39m
+2023-03-20 20:37:21:3721 [31merror[39m: [31mConnection lost: The server closed the connection.[39m
+2023-03-20 20:38:06:386 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2023-03-20 20:38:51:3851 [31merror[39m: [31mDuplicate entry 'eca666ucliveacnz' for key 'unique_key'[39m
+2023-03-20 20:57:28:5728 [31merror[39m: [31mINSERT INTO `user` (`email`, `first_name`, `last_name`, `image_filename`, `password`) VALUES ('k@gmail.com', 'Kristy', 'Lincoln', 'user_4.jpg', 'abc123'), ('a@gmail.com', 'Amanda', 'Faria', 'user_7.PNG', 'abc234'), ('B@gmail.com', 'Fernando', 'Brown', 'user_5.jpg', 'abc345'), ('jeh128@mail.nz', 'Jack', 'Chen', 'user_6.jpg', 'abc456'), ('lfg23@mail.nz', 'Ella', 'Yellow', 'user_9.PNG', 'abc567'), ('zhe25@mail.nz', 'Henry', 'Krippner', 'user_8.gif', 'abc678'), ('ama541@mail.nz', 'Finn', 'Veale', NULL, 'abc789'), ('e.shellstrop@hotmail.com', 'Eleanor', 'Shellstrop', 'user_1.jpg', 'legitsnack'), ('c.anagonye@stjohns.edu.au', 'Chidi', 'Anagonye', 'user_2.png', 'peepschili'), ('tahani.aljamil@ox.ac.uk', 'Tahani', 'Al-Jamil', 'user_3.gif', 'outofthespotlight'), ('boooooortles@hotmail.com', 'Jason', 'Mendoza', 'user_7.jpg', 'boooortles'), ('mindystclaire@gmail.com', 'Mindy', 'St. Claire', NULL, 'password'), ('s.garnett@stjohns.edu.au', 'Simone', 'Garnett', NULL, 'nwkvcu33krjf'), ('pillboi@ymail.com', 'Steven', 'Peleaz', NULL, 'jacksonville'), ('larryhemsworth@gmail.com', 'Larry', 'Hemsworth', NULL, 'not_thor'), ('kamilah.aljamil@ox.ac.uk', 'Kamilah', 'Al-Jamil', NULL, 'ismrrhof'), ('johnwheaton@gmail.com', 'John', 'Wheaton', NULL, 'gossip'), ('m@m.com', 'Morgan', 'English', NULL, 'password')[39m
+2023-03-20 21:15:47:1547 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-20 21:18:29:1829 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-20 21:22:35:2235 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-20 21:23:17:2317 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-20 21:25:15:2515 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-20 21:25:16:2516 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-20 21:28:42:2842 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-21 08:53:15:5315 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2023-03-21 09:05:08:58 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(first_name, last_name, image_filename, email, password) = NULL where id = 50' at line 1[39m
+2023-03-21 09:06:24:624 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(first_name, last_name, image_filename, email, password) = ( 'Ella', 'Calder'...' at line 1[39m
+2023-03-21 09:16:02:162 [31merror[39m: [31mIllegal arguments: undefined, string[39m
+2023-03-21 09:18:00:180 [31merror[39m: [31mIllegal arguments: undefined, string[39m
+2023-03-21 09:19:26:1926 [31merror[39m: [31mIllegal arguments: undefined, string[39m
+2023-03-21 09:20:10:2010 [31merror[39m: [31mIllegal arguments: undefined, string[39m
+2023-03-21 09:20:45:2045 [31merror[39m: [31mIllegal arguments: undefined, string[39m
+2023-03-21 09:21:47:2147 [31merror[39m: [31mIllegal arguments: undefined, string[39m
+2023-03-21 09:22:31:2231 [31merror[39m: [31mIllegal arguments: undefined, string[39m
+2023-03-21 13:54:22:5422 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-21 13:54:23:5423 [31merror[39m: [31mUPDATE `user` SET `auth_token`='undefined' WHERE `id`={{user_id}};[39m
+2023-03-21 13:54:23:5423 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '{user_id}}' at line 1[39m
+2023-03-21 14:10:02:102 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-21 14:10:03:103 [31merror[39m: [31mUPDATE `user` SET `auth_token`='undefined' WHERE `id`={{user_id}};[39m
+2023-03-21 14:10:03:103 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '{user_id}}' at line 1[39m
+2023-03-21 14:11:28:1128 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-21 14:11:29:1129 [31merror[39m: [31mUPDATE `user` SET `auth_token`='undefined' WHERE `id`={{user_id}};[39m
+2023-03-21 14:11:29:1129 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '{user_id}}' at line 1[39m
+2023-03-21 14:11:54:1154 [31merror[39m: [31mColumn 'first_name' cannot be null[39m
+2023-03-21 14:23:16:2316 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-21 14:24:04:244 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-21 14:59:01:591 [31merror[39m: [31mColumn 'first_name' cannot be null[39m
+2023-03-21 15:02:26:226 [31merror[39m: [31mColumn 'first_name' cannot be null[39m
+2023-03-21 15:03:18:318 [31merror[39m: [31mColumn 'last_name' cannot be null[39m
+2023-03-21 15:04:07:47 [31merror[39m: [31mColumn 'first_name' cannot be null[39m
+2023-03-21 15:05:55:555 [31merror[39m: [31mColumn 'first_name' cannot be null[39m
+2023-03-21 15:21:25:2125 [31merror[39m: [31mColumn 'last_name' cannot be null[39m
+2023-03-21 15:38:46:3846 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2023-03-21 15:41:35:4135 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2023-03-21 15:45:50:4550 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2023-03-21 15:46:08:468 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2023-03-21 15:47:03:473 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2023-03-21 15:51:01:511 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2023-03-21 16:28:03:283 [31merror[39m: [31mUnknown column '999999' in 'group statement'[39m
+2023-03-21 16:40:30:4030 [31merror[39m: [31mUnknown column '200' in 'group statement'[39m
+2023-03-21 16:41:38:4138 [31merror[39m: [31mUnknown column '200' in 'group statement'[39m
+2023-03-21 17:11:15:1115 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-21 17:17:22:1722 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-21 17:17:22:1722 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-21 17:17:22:1722 [31merror[39m: [31mUPDATE `user` SET `auth_token`='undefined' WHERE `id`={{user_id}};[39m
+2023-03-21 17:17:22:1722 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '{user_id}}' at line 1[39m
+2023-03-24 08:58:35:5835 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2023-03-24 09:02:36:236 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-24 10:39:53:3953 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2023-03-24 13:11:32:1132 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2023-03-24 13:12:36:1236 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-24 13:19:59:1959 [31merror[39m: [31mCannot read properties of undefined (reading 'filmId')[39m
+2023-03-24 13:22:25:2225 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-24 13:23:26:2326 [31merror[39m: [31mCannot read properties of undefined (reading 'title')[39m
+2023-03-25 12:11:44:1144 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2023-03-25 12:41:37:4137 [31merror[39m: [31mobject is not iterable (cannot read property Symbol(Symbol.iterator))[39m
+2023-03-25 12:41:59:4159 [31merror[39m: [31mobject is not iterable (cannot read property Symbol(Symbol.iterator))[39m
+2023-03-25 15:35:49:3549 [31merror[39m: [31mIncorrect parameter count in the call to native function 'isnull'[39m
+2023-03-25 15:42:11:4211 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'group by film.id' at line 1[39m
+2023-03-25 16:23:44:2344 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and genre_id = genre_id and age_rating = age_rating and director_id = directo...' at line 1[39m
+2023-03-25 16:25:30:2530 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and genre_id = genre_id and age_rating = age_rating and director_id = directo...' at line 1[39m
+2023-03-25 16:50:19:5019 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and genre_id = genre_id and age_rating = age_rating and director_id = directo...' at line 1[39m
+2023-03-25 16:50:51:5051 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and genre_id = NaN and age_rating = age_rating and director_id = NaN and user...' at line 1[39m
+2023-03-25 16:52:57:5257 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and genre_id = genre_id and age_rating = age_rating and director_id = directo...' at line 1[39m
+2023-03-25 17:06:13:613 [31merror[39m: [31mUnknown column 'ageRating' in 'where clause'[39m
+2023-03-26 09:50:21:5021 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2023-03-26 11:18:38:1838 [31merror[39m: [31mColumn 'film_id' cannot be null[39m
+2023-03-26 11:19:21:1921 [31merror[39m: [31mIncorrect datetime value: '2023-03-25T22:19:21.928Z' for column `eca66_seng365_assignment1`.`film_review`.`timestamp` at row 1[39m
+2023-03-26 11:20:24:2024 [31merror[39m: [31mIncorrect datetime value: 'Sun Mar 26 2023 11:20:24 GMT+1300 (New Zealand Daylight Time)' for column `eca66_seng365_assignment1`.`film_review`.`timestamp` at row 1[39m
+2023-03-26 11:20:47:2047 [31merror[39m: [31mIncorrect datetime value: 'Sun Mar 26 2023' for column `eca66_seng365_assignment1`.`film_review`.`timestamp` at row 1[39m
+2023-03-26 11:21:05:215 [31merror[39m: [31mIncorrect datetime value: '11:21:05 GMT+1300 (New Zealand Daylight Time)' for column `eca66_seng365_assignment1`.`film_review`.`timestamp` at row 1[39m
+2023-03-26 11:21:28:2128 [31merror[39m: [31mIncorrect datetime value: 'Sat, 25 Mar 2023 22:21:28 GMT' for column `eca66_seng365_assignment1`.`film_review`.`timestamp` at row 1[39m
+2023-03-26 11:25:41:2541 [31merror[39m: [31mDuplicate entry '1-2' for key 'film_id'[39m
+2023-03-26 11:28:24:2824 [31merror[39m: [31mDuplicate entry '1-2' for key 'film_id'[39m
+2023-03-26 12:03:56:356 [31merror[39m: [31mDuplicate entry '2-1' for key 'film_id'[39m
+2023-03-26 12:22:23:2223 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
+2023-03-26 12:24:23:2423 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
+2023-03-26 12:33:30:3330 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-26 12:34:16:3416 [31merror[39m: [31mTypeError: Cannot read properties of undefined (reading 'id')here[39m
+2023-03-26 12:39:04:394 [31merror[39m: [31mError: Unknown column 'NaN' in 'where clause'here[39m
+2023-03-26 12:39:28:3928 [31merror[39m: [31mError: Unknown column 'NaN' in 'where clause'here[39m
+2023-03-26 12:40:45:4045 [31merror[39m: [31mError: Unknown column 'NaN' in 'where clause'here[39m
+2023-03-26 12:41:06:416 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2023-03-26 12:45:29:4529 [31merror[39m: [31mCannot read properties of undefined (reading 'auth_token')[39m
+2023-03-26 12:46:11:4611 [31merror[39m: [31mCannot read properties of undefined (reading 'auth_token')[39m
+2023-03-26 12:46:22:4622 [31merror[39m: [31mColumn 'first_name' cannot be null[39m
+2023-03-26 12:50:43:5043 [31merror[39m: [31mCannot read properties of undefined (reading 'auth_token')[39m
+2023-03-26 13:00:18:018 [31merror[39m: [31mCannot read properties of undefined (reading 'auth_token')[39m
+2023-03-26 13:01:37:137 [31merror[39m: [31mCannot read properties of undefined (reading 'auth_token')[39m
+2023-03-26 13:01:56:156 [31merror[39m: [31mCannot read properties of undefined (reading 'auth_token')[39m
+2023-03-28 12:32:46:3246 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-28 12:33:08:338 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2023-03-28 12:35:13:3513 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
+2023-03-28 12:37:41:3741 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
+2023-03-28 12:39:39:3939 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
+2023-03-28 12:40:05:405 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
