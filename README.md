@@ -9,4 +9,4 @@ Assignment for SENG365 at Univeristy of Canterbury.
 3. Run `npm run start` or `npm run debug` to start the server.
 4. The server will be accessible on `localhost:4941`.
 
-This will also require a database to be set up. A file with default data is included in the repo.
+This will also require a database to run the API. A file with default data is included in the repo.
