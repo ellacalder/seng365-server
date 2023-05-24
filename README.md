@@ -1,6 +1,6 @@
 # SENG365 Assignment 1 API Server (Film Festival)
 
-Assignment for SENG365 at Univeristy of Canterbury.
+Assignment for SENG365 at University of Canterbury.
 
 ## Running locally
 
